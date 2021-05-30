@@ -1,0 +1,33 @@
+# main links
+main:
+  - title: "Home"
+    url: https://spooncraft.github.io/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar:
+  - title: "General"
+    children:
+      - title: "Info"
+        url: /info/
+      - title: "Rules"
+        url: /rules/
+      - title: "FAQ"
+        url: /faq/
+      - title: "Downloads"
+        url: /downloads/
+      - title: "Resource Pack"
+        url: /resourcepack/
+      - title: "Mob Heads"
+        url: /mobheads/
+  - title: "Tutorials"
+    children:
+      - title: "Creating a shop"
+        url: /shoptutorial/
+      - title: "Installing proximity chat"
+        url: /proximitychat/
