@@ -5,7 +5,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-05-29
+last_modified_at: 2021-06-01
 toc: false
 ---
 
@@ -24,7 +24,7 @@ Chicken, stray, strider, piglin, hoglin, zoglin
 ### 1 in 25: (0.04)
 Ocelot, llama, drowned
 ### 7 in 50: (0.14)
-Evoker, illusioner, ravager, cat
+Evoker, ravager, cat
 ### 9 in 100: (0.09)
 Donkey, zombie villager
 ### 11 in 200: (0.055)

@@ -25,6 +25,8 @@ sidebar:
         url: /resourcepack/
       - title: "Mob Heads"
         url: /mobheads/
+      - title: "Allowed mods"
+        url: /mods/
   - title: "Tutorials"
     children:
       - title: "Creating a shop"
