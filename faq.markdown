@@ -1,13 +1,19 @@
 ---
 title: "FAQ"
+description: "These are some common questions about the server. Before asking for help, it might be worth checking if your question is answered here."
 permalink: /faq/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-05-29
+last_modified_at: 2021-10-21
 toc: true
 ---
+
+These are some common questions about the server. Before asking for help, it might be worth checking if your question is answered here.
+
+If you can't find the answer to your question, feel free to ask it in **#in-game-help**!
+{: .notice}
 
 ## General
 
@@ -15,8 +21,8 @@ toc: true
 
 We have two servers available for you to play on. We have the Spooncraft survival server and a creative plot world server.
 
-**Spooncraft survival:** mc.thatmumbojumbo.com \
-**Creative Plot world:** creative.thatmumbojumbo.com
+**Spooncraft survival:** `mc.thatmumbojumbo.com` \
+**Creative Plot world:** `creative.thatmumbojumbo.com`
 
 You need to have completed the whitelist process to be able to get on either of these servers.
 

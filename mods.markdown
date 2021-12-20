@@ -1,17 +1,19 @@
 ---
 title: "Allowed mods"
+description: "Some mods are allowed on Spooncraft, however we do not allow mods that give you an unfair advantage over other players."
 permalink: /mods/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-06-01
+last_modified_at: 2021-10-21
 toc: true
 ---
 
-Some mods are allowed on Spooncraft, however we do not allow mods that give you an advantage over other players.
+Some mods are allowed on Spooncraft, however we do not allow mods that give you an unfair advantage over other players.
 
-If you are not sure about anything or have any questions, please ask in #in-game-help on discord and someone will be happy to help you.
+If you are not sure about anything or have any questions, please ask in **#in-game-help** on discord and someone will be happy to help you.
+{: .notice}
 
 ## Allowed mods
 
@@ -25,9 +27,11 @@ Some examples of these include [Sodium](https://modrinth.com/mod/sodium) and [Op
 Mods designed to improve the speed of launching the game are also of course okay, for example [LazyDFU](https://github.com/astei/lazydfu/releases).
 
 ### Cosmetic mods
-Mods that are only designed to change the look of the game and do not affect anything else are also fine, for example [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications), [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) and [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric).
+Mods that are only designed to change the look of the game and do not affect anything else are fine, for example [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications), [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) and [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric).
 
 This also includes mods that show you information already available elsewhere, such as [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud), which is a customisable display showing the same information visible by pressing F3 in vanilla.
+
+Shader mods such as [OptiFine](https://optifine.net/home) and [Iris](https://irisshaders.net/) are also allowed.
 
 ### Minimaps
 Minimaps such as [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) are allowed, considering that an online map is available to all players anyway.

@@ -1,13 +1,22 @@
 ---
 title: "Info"
+description: "Spooncraft is a Minecraft: Java Edition server, with additional support for Minecraft: Bedrock Edition, meaning players on all current versions of the game can play."
 permalink: /info/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-05-29
+last_modified_at: 2021-10-21
 toc: true
 ---
+
+![info]({{ site.url }}{{ site.baseurl }}/assets/images/info.png){: .align-center}
+
+Spooncraft is a **Minecraft: Java Edition** server. You can connect to Spooncraft using the IPs listed below.
+
+**Survival:** `mc.thatmumbojumbo.com` \
+**Creative Plots:** `creative.thatmumbojumbo.com`
+
 
 ## General server info
 
@@ -21,7 +30,7 @@ Here's a list of most things you need to know, like changes from plugins and dat
 - You can create nether portals of **any shape**, instead of just rectangular ones.
 - There are a few crafting changes, including **double stairs, cheaper tnt, universal dyeing and elytra crafting** (recipe pinned in #in-game-help).  Alternatively, you can also get elytra by killing the dragon again and of course the normal way.
 - **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the website by going to your profile.
-- There is a **proximity voice chat** system available, mainly as a test for now. Just to be clear, this is **completely optional** and you will still be able to join the server without it, but if you want to try it out then please take a look at the tutorial [here](/spooncraft-docs/proximitychat/) which will help you set it up.
+- There is a **proximity voice chat** system available. Just to be clear, this is **completely optional** and you will still be able to join the server without it, but if you want to try it out then please take a look at the tutorial [here](/spooncraft-docs/proximitychat/) which will help you set it up.
 
 ## MC Earth
 

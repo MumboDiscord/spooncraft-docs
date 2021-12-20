@@ -6,3 +6,29 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.hero-wrapper {
+    display: grid;
+}
+
+.page__hero--overlay {
+    grid-area: 1 / 1 / 2 / 2;
+    z-index: 1;
+}
+
+.background {
+    opacity: 0;
+    height: 300px;
+    z-index: -2;
+    grid-area: 1 / 1 / 2 / 2;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition-duration: 0.3s;
+}
+
+.currentBackground {
+    opacity: 1;
+    z-index: -1;
+    animation: intro 0.3s;
+}

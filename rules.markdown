@@ -1,14 +1,18 @@
 ---
 title: "Rules"
+description: "Please read the rules listed here and make sure you follow them while playing."
 permalink: /rules/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-05-29
+last_modified_at: 2021-10-21
 toc: true
 ---
 
+![rules]({{ site.url }}{{ site.baseurl }}/assets/images/rules.png){: .align-center}
+
+Please read the rules listed here and make sure you follow them while playing.
 
 ### 1. No Stealing
 

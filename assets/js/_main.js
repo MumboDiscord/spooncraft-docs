@@ -133,4 +133,18 @@ $(document).ready(function() {
       $(this).append(anchor);
     }
   });
+
+  var backgrounds = document.getElementsByClassName("background");
+
+  if (!backgrounds.length == 0) {
+    i = Math.floor(Math.random() * backgrounds.length);
+    backgrounds[i].classList.add("currentBackground");
+
+    setInterval(function() {
+      backgrounds[i].classList.remove("currentBackground")
+      i += 1;
+      if (i >= backgrounds.length) {i = 0};
+      backgrounds[i].classList.add("currentBackground");
+    }, 5000);
+  };
 });

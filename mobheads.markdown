@@ -1,15 +1,18 @@
 ---
 title: "Mob Heads"
+description: "We have a plugin on the server which gives you a chance to get a head each time you kill a mob. Additionally, you will get a player head every time you kill a player. The drop rates are shown here."
 permalink: /mobheads/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-06-01
+last_modified_at: 2021-10-21
 toc: false
 ---
 
-We have a plugin on the server which gives you a chance to get a head each time you kill a mob. Additionally, you will get a player head every time you kill a player.
+![mobheads]({{ site.url }}{{ site.baseurl }}/assets/images/mob-heads.png){: .align-center}
+
+We have a plugin on the server which gives you a chance to get a head each time you kill a mob. Additionally, you will get a player head every time you kill a player. The drop rates are shown here.
 
 ## Drop Rates
 

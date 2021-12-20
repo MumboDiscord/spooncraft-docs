@@ -1,7 +1,9 @@
 # main links
 main:
-  #- title: "Home"
-  #  url: https://mumbodiscord.github.io/
+  - title: "Home"
+    url: /
+  - title: "Server Map"
+    url: http://147.135.116.56:8123/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
