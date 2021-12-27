@@ -94,3 +94,13 @@ To use these files, you will need a program that can extract zip files in parts,
 
 **[Download](https://drive.google.com/file/d/1Dy-Fh_C22fp4l5AhZB4Qvf7l7SMZg3Ce/view?usp=sharing)**
 {: .notice--success}
+
+### MC Earth
+
+**Size:** 5.8GB \
+**Version:** 1.17.1 \
+**Spawn:** 10192, 43, 5869
+{: .notice--info}
+
+**[Download](https://drive.google.com/file/d/14FkT6x1S8G79wBDKQWOxr6iyIJb9nLcW/view?usp=sharing)**
+{: .notice--success}
