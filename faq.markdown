@@ -145,4 +145,4 @@ You can view the map [here](http://147.135.116.56:8123/).
 
 We're using the Shopkeepers plugin for shops on the server, although you do have the option to use the trust system if you'd like to.
 
-If you want to know how to use the Shopkeepers plugin to make shops, go [here](/spooncraft-docs/shoptutorial/)!
+If you want to know how to use the Shopkeepers plugin to make shops, go [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/)!

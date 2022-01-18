@@ -24,13 +24,13 @@ At the moment we are playing on the SMPEarth map, which is like a normal surviva
 
 Here's a list of most things you need to know, like changes from plugins and datapacks:
 - You can use flint with an **armor stand** to edit it (right click away from it to change settings, right click on it to apply).
-- You can **create shops** using the shopkeepers plugin, you can view a tutorial [here](/spooncraft-docs/shoptutorial/).
+- You can **create shops** using the shopkeepers plugin, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
 - Discord chat is linked to the ingame chat, through the #in-game-chat channel, so you can talk ingame and have it appear in discord, and the other way around.
 - We have a **one player sleep** plugin, which will speed up the night when one person is sleeping, and speed it up more for each person who sleeps at the same time.
 - You can create nether portals of **any shape**, instead of just rectangular ones.
 - There are a few crafting changes, including **double stairs, cheaper tnt, universal dyeing and elytra crafting** (recipe pinned in #in-game-help).  Alternatively, you can also get elytra by killing the dragon again and of course the normal way.
 - **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the website by going to your profile.
-- There is a **proximity voice chat** system available. Just to be clear, this is **completely optional** and you will still be able to join the server without it, but if you want to try it out then please take a look at the tutorial [here](/spooncraft-docs/proximitychat/) which will help you set it up.
+- There is a **proximity voice chat** system available. Just to be clear, this is **completely optional** and you will still be able to join the server without it, but if you want to try it out then please take a look at the tutorial [here]({{ site.url }}{{ site.baseurl }}/proximitychat/) which will help you set it up.
 
 ## MC Earth
 

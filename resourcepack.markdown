@@ -18,5 +18,5 @@ You can either accept the resource pack when logging into the server (the easies
 
 If you want to download it locally, you can download it below, place it in your resource packs folder, then disable the server resource pack from the server list and enable it in your resource pack options.
 
-**[Download](/spooncraft-docs/files/resource_packs/MumboSRPv4.0.zip)**
+**[Download]({{ site.url }}{{ site.baseurl }}/files/resource_packs/MumboSRPv4.0.zip)**
 {: .notice--success}
