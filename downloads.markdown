@@ -51,7 +51,7 @@ You can download the worlds from all previous seasons here.
 **Spawn:** 265, 66, 214
 {: .notice--info}
 
-**[Download](http://www.mediafire.com/file/muyyxteuby5hwlr/Mumbocraft_s4.zip/file)**
+**[Download](https://www.mediafire.com/file/sa03giyv3mfohm7/Mumbocraft_s4.zip/file)**
 {: .notice--success}
 
 ## Spooncraft
