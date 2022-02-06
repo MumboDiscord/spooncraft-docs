@@ -33,5 +33,9 @@ sidebar:
     children:
       - title: "Creating a shop"
         url: /shoptutorial/
-      - title: "Installing proximity chat"
-        url: /proximitychat/
+  - title: "Bedrock Edition"
+    children:
+      - title: "General Bedrock info"
+        url: /bedrockinfo/
+      - title: "Playing on consoles"
+        url: /consoles/

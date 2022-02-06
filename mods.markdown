@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-10-21
+last_modified_at: 2022-02-06
 toc: true
 ---
 
@@ -31,7 +31,7 @@ Mods that are only designed to change the look of the game and do not affect any
 
 This also includes mods that show you information already available elsewhere, such as [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud), which is a customisable display showing the same information visible by pressing F3 in vanilla.
 
-Shader mods such as [OptiFine](https://optifine.net/home) and [Iris](https://irisshaders.net/) are also allowed.
+Shader mods such as [Iris](https://irisshaders.net/) and [OptiFine](https://optifine.net/home) are also allowed.
 
 ### Minimaps
 Minimaps such as [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) are allowed, considering that an online map is available to all players anyway.
@@ -42,8 +42,6 @@ However, you must turn off any features that allow you to see mobs or caves on t
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) is a mod that allows you to show schematics visually ingame, to help with building. This is allowed as long as there is no automation - the player should still have to build manually.
 
 [Replay Mod](https://www.replaymod.com/download/) allows you to record gameplay and watch it back later as if you were in spectator mode, and make videos from it. This is considered fine since you cannot move around in a spectator view while playing, only afterwards.
-
-[Plasmo Voice](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice-client) is a proximity chat mod, which we of course allow as it is enabled on the server.
 
 ## Disallowed mods
 
