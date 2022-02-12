@@ -18,14 +18,9 @@ You can either accept the resource pack when logging into the server (the easies
 
 If you want to download it locally, you can download it below, place it in your resource packs folder, then disable the server resource pack from the server list and enable it in your resource pack options.
 
-**Downloads will be available soon**
-{: .notice--success}
 
-
-<!---
 **[Download (Java Edition)]({{ site.url }}{{ site.baseurl }}/files/resource_packs/MumboSRPv5.0_Java.zip)**
 {: .notice--success}
 
 **[Download (Bedrock Edition)]({{ site.url }}{{ site.baseurl }}/files/resource_packs/MumboSRPv5.0_Bedrock.mcpack)**
 {: .notice--success}
---->
