@@ -14,7 +14,7 @@ Joining Spooncraft on consoles is a bit more difficult than on other versions of
 
 This service is provided by [BedrockConnect](https://github.com/Pugmatt/BedrockConnect).
 
-If you’re having any problems with this, you can let us know in **#in-game-help** on discord and we’ll try to help you out :P
+If you’re having any problems with this, you can let us know in [**#in-game-help**](https://discord.com/channels/377946908783673344/930371836896751618) on discord and we’ll try to help you out :P
 {: .notice}
 
 ## Nintendo Switch
@@ -89,4 +89,4 @@ If you're still unable to connect after following these steps, you can try the s
 - Repeat the instructions again, but use `173.82.100.84` as the Primary DNS instead.
 - If you have a mobile device you can use, reset your console's network settings, download [this Android app](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) or [this iOS app](https://apps.apple.com/app/bedrocktogether/id1534593376), enter the server IP and port, and join the server from friends on your console.
 
-If you're still having issues, let us know in **#in-game-help** on discord.
+If you're still having issues, let us know in [**#in-game-help**](https://discord.com/channels/377946908783673344/930371836896751618) on discord.
