@@ -62,7 +62,7 @@ No!
 
 We will not be resetting the end, people are building in the end.
 
-If you are looking for an Elytra, just spawn and kill another Ender Dragon, this will give you an Elytra, and also open up a custom crafting recipe for you to craft and Elytra.
+If you are looking for an Elytra, just spawn and kill another Ender Dragon, this will give you an Elytra, and also open up a custom crafting recipe for you to craft an Elytra.
 
 ### Can I stream/record on the spooncraft server?
 
