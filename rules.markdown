@@ -44,7 +44,7 @@ Everybody has the right to be treated equally. You should treat each other as yo
 
 ### 8. No offensive skins
 
-If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likly result in a temp/perm ban.
+If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likely result in a temp/perm ban.
 
 ### 9. Keep information private
 
