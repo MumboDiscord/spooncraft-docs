@@ -22,16 +22,16 @@ On Java Edtion, you can connect to Spooncraft using the IPs listed below.
 Bedrock specific info, and instructions for connecting on Bedrock Edition can be found [here]({{ site.url }}{{ site.baseurl }}/bedrockinfo/).
 {: .notice}
 
-## General server info
+## General Server Info
 
 Here's a list of most things you need to know, like changes from plugins and datapacks:
 - You can use flint with an **armor stand** to edit it (right click away from it to change settings, right click on it to apply).
 - You can **create shops** using the shopkeepers plugin, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
-- Discord chat is linked to the ingame chat, through the #in-game-chat channel, so you can talk ingame and have it appear in discord, and the other way around.
+- Discord chat is linked to the ingame chat, through the [#in-game-chat](https://discord.com/channels/377946908783673344/930585547842404372) channel, so you can talk ingame and have it appear in discord, and the other way around.
 - We have a **one player sleep** plugin, which will speed up the night when one person is sleeping, and speed it up more for each person who sleeps at the same time.
 - You can create nether portals of **any shape**, instead of just rectangular ones.
-- There are a few crafting changes, including **double stairs, cheaper tnt, universal dyeing and elytra crafting** (recipe pinned in #in-game-help).  Alternatively, you can also get elytra by killing the dragon again and of course the normal way.
-- **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the reaction roles in #server-info.
+- There are a few crafting changes, including **double stairs, cheaper tnt, universal dyeing and elytra crafting** (recipe pinned in [#in-game-help](https://discord.com/channels/377946908783673344/930371836896751618)).  Alternatively, you can also get elytra by killing the dragon again and of course the normal way.
+- **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the reaction roles in [#server-info](https://discord.com/channels/377946908783673344/930371836896751618).
 - Powered rails are now much faster when placed above **packed ice**, and even faster when placed above **blue ice**.
 
 ## Gold Farm Guidelines

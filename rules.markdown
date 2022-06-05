@@ -32,7 +32,7 @@ Spamming of the server chat is not permitted. Examples of this include posting t
 
 ### 5. No Hacking or duplicating
 
-The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray tecture packs), aimbot, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted.
+The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray tecture packs), aimbot, etc. The use of vanilla bugs is allowed however duplication glitchs exploitation (including TNT duplication) is not permitted.
 
 ### 6. Do not maliciously kill other players
 
@@ -44,7 +44,7 @@ Everybody has the right to be treated equally. You should treat each other as yo
 
 ### 8. No offensive skins
 
-If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likly result in a temp/perm ban.
+If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likely result in a temp/perm ban.
 
 ### 9. Keep information private
 

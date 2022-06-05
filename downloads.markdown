@@ -82,7 +82,7 @@ You can download the worlds from all previous seasons here.
 **[Part 7](https://www.mediafire.com/file/klr5owvxmqy3p43/Spooncraft_S2.zip.007/file)**
 {: .notice--success}
 
-To use these files, you will need a program that can extract zip files in parts, such as [7-Zip](https://www.7-zip.org/) on Windows, or [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12&uo=4) on macOS.
+To use these files, you will need a program that can extract zip files in parts, such as [7-Zip](https://www.7-zip.org/) on Windows or Linux, or [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12&uo=4) on macOS.
 {: .notice}
 
 ### Skyblock
