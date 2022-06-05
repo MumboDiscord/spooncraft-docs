@@ -19,6 +19,9 @@ If you are not sure about anything or have any questions, please ask in **#in-ga
 
 This is not an exhaustive list, but is designed to give you an idea of what we would allow or not allow.
 
+### Voice Chat Mod
+Spooncraft uses an optional mod called "Simple Voice Chat" that lets you talk to other players near you. Keep in mind this mod is completely optional, you do not need to use it if you would prefer not to. Download it [here](https://modrinth.com/mod/simple-voice-chat). (Make sure you get the right version for your mod launcher.)
+
 ### Optimisation mods
 Mods that have the goal of improving the performance of your game are generally allowed.
 
