@@ -32,3 +32,7 @@
     z-index: -1;
     animation: intro 0.3s;
 }
+
+.masthead, .masthead-menu, .greedy-nav {
+    background-color: $primary-color;
+}

@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-10-21
+last_modified_at: 2022-08-03
 toc: true
 ---
 
@@ -94,7 +94,7 @@ If you are creating your first claim, you can also place down a chest and a 4x4 
 
 ### I don't have enough claim blocks!
 
-You will gain an additional 100 claim blocks for each hour that you play, up to a limit of 500,000 blocks (around a 700 x 700 area). Please keep in mind that you can have multiple claims in different locations, but you will still only ever have a maximum of 500,000 claim blocks to use globally.
+You will gain an additional 150 claim blocks for each hour that you play, up to a limit of 500,000 blocks (around a 700 x 700 area). Please keep in mind that you can have multiple claims in different locations, but you will still only ever have a maximum of 500,000 claim blocks to use globally.
 
 ### How do I remove a claim?
 
@@ -123,9 +123,8 @@ If you have accrued the maximum number of claim blocks (500,000) then you're saf
 You can either allow certain individuals to build/access chests/use redstone on your claimed land or open it to the public. To do this, use these commands:
 
 1. Allows access for the public to build - `/trust public`
-2. Allows access for the public to use chests - `/containertrust public`
 3. Allows access for the public to use redstone - `/accesstrust public`
-
+2. Allows access for the public to use redstone and chests - `/containertrust public`
 
 If you want to restrict it to just certain players, just replace public with their IGN.
 
@@ -137,7 +136,7 @@ If a piston is activated on the edge of a claim, it will explode - this is to pr
 
 ### How do I access the map?
 
-You can view the map [here](http://147.135.116.56:8123/).
+You can view the map [here](http://173.233.142.94:8080/).
 
 ## Shopping
 

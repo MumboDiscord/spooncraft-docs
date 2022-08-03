@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2022-02-06
+last_modified_at: 2022-08-03
 toc: true
 ---
 
@@ -42,6 +42,8 @@ However, you must turn off any features that allow you to see mobs or caves on t
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) is a mod that allows you to show schematics visually ingame, to help with building. This is allowed as long as there is no automation - the player should still have to build manually.
 
 [Replay Mod](https://www.replaymod.com/download/) allows you to record gameplay and watch it back later as if you were in spectator mode, and make videos from it. This is considered fine since you cannot move around in a spectator view while playing, only afterwards.
+
+[Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) allows for in-game proximity voice chat with other players.
 
 ## Disallowed mods
 

@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-10-21
+last_modified_at: 2022-08-03
 toc: false
 ---
 
@@ -17,7 +17,7 @@ We have a plugin on the server which gives you a chance to get a head each time 
 ## Drop Rates
 
 ### Always: (1)
-Ender Dragon, wither, parrot, zombie horse, villager, wandering trader, bee
+Ender Dragon, wither, parrot, zombie horse, villager, wandering trader, bee, warden
 ### 1 in 2: (0.5)
 Zombie, skeleton
 ### 1 in 10: (0.1)
@@ -43,7 +43,7 @@ Panda, fox
 ### 1 in 200: (0.005)
 Slime, pig, cow, magma cube
 ### 1 in 500: (0.002)
-Mooshroom, witch
+Mooshroom, witch, piglin brute, axolotl, glow squid, goat
 ### 3 in 10: (0.3)
 Elder guardian
 ### 29 in 100: (0.29)
