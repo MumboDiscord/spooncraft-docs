@@ -40,7 +40,7 @@ Proximity chat is not compatible with **Bedrock Edition**.
 
 ## Important info
 
-To configure the chat settings, press **V**, go to settings you’ll be able to adjust volume, microphone settings and a few other things. If you use push to talk, **Caps Lock** is the default button. Controls can be changed in the standard minecraft controls menu.
+To configure the chat settings, press **V**, go to settings and you’ll be able to adjust volume, microphone settings and a few other things. If you use push to talk, **Caps Lock** is the default button. Controls can be changed in the standard minecraft controls menu.
 {: .notice}
 
 If you want to use **voice activation** instead of push to talk, go to audio in the settings (press V), change the activation type and adjust the voice activation threshold as needed.

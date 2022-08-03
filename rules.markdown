@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-10-21
+last_modified_at: 2021-08-03
 toc: true
 ---
 
@@ -32,7 +32,7 @@ Spamming of the server chat is not permitted. Examples of this include posting t
 
 ### 5. No Hacking or duplicating
 
-The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray tecture packs), aimbot, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted.
+The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray tecture packs), aimbot, autoclickers, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted. This also means tnt duplication is not allowed.
 
 ### 6. Do not maliciously kill other players
 
