@@ -17,13 +17,13 @@ We have a plugin on the server which gives you a chance to get a head each time 
 ## Drop Rates
 
 ### Always: (1)
-Ender Dragon, wither, parrot, zombie horse, villager, wandering trader, bee, warden
+Ender Dragon, wither, parrot, zombie horse, villager, wandering trader, warden
 ### 1 in 2: (0.5)
-Zombie, skeleton
+Bee, axolotl
 ### 1 in 10: (0.1)
-Rabbit, polar bear, mule, turtle, phantom, cod, salmon, tropical fish
+Rabbit, polar bear, mule, turtle, phantom, cod, salmon, tropical fish, glow squid, goat, allay
 ### 1 in 20: (0.05)
-Chicken, stray, strider, piglin, hoglin, zoglin
+Zombie, skeleton, chicken, stray, strider, piglin, hoglin, zoglin, piglin brute, frog, tadpole
 ### 1 in 25: (0.04)
 Ocelot, llama, drowned
 ### 7 in 50: (0.14)
@@ -35,7 +35,7 @@ Iron golem, vindicator
 ### 1 in 40: (0.025)
 Wither skeleton, ghast
 ### 1 in 50: (0.02)
-Creeper, spider, enderman, horse, squid, silverfish, bat, snowman, wolf, shulker, endermite, vex
+Creeper, spider, horse, squid, silverfish, bat, snowman, wolf, shulker, endermite, vex
 ### 1 in 100: (0.01)
 Zombified piglin, cave spider
 ### 9 in 500: (0.018)
@@ -43,7 +43,7 @@ Panda, fox
 ### 1 in 200: (0.005)
 Slime, pig, cow, magma cube
 ### 1 in 500: (0.002)
-Mooshroom, witch, piglin brute, axolotl, glow squid, goat
+Mooshroom, witch, enderman
 ### 3 in 10: (0.3)
 Elder guardian
 ### 29 in 100: (0.29)
