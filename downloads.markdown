@@ -21,7 +21,7 @@ You can download the worlds from all previous seasons here.
 **Spawn:** 265, 66, 214
 {: .notice--info}
 
-**[Download](http://www.mediafire.com/file/ca6mr90b6h45gvx/MumboCraft-Season-1.zip/file)**
+**[Download](https://www.mediafire.com/file/ca6mr90b6h45gvx/MumboCraft-Season-1.zip/file)**
 {: .notice--success}
 
 ### Season 2
@@ -31,7 +31,7 @@ You can download the worlds from all previous seasons here.
 **Spawn:** 265, 66, 214
 {: .notice--info}
 
-**[Download](http://www.mediafire.com/file/vhozy3h291n581q/MJS2.zip/file)**
+**[Download](https://www.mediafire.com/file/vhozy3h291n581q/MJS2.zip/file)**
 {: .notice--success}
 
 ### Season 3
@@ -41,7 +41,7 @@ You can download the worlds from all previous seasons here.
 **Spawn:** 626, 59, -1017
 {: .notice--info}
 
-**[Download](http://www.mediafire.com/file/jan5r73svslhfsj/MumboCraft-Season-3.zip/file)**
+**[Download](https://www.mediafire.com/file/jan5r73svslhfsj/MumboCraft-Season-3.zip/file)**
 {: .notice--success}
 
 ### Season 4
@@ -63,7 +63,7 @@ You can download the worlds from all previous seasons here.
 **Spawn:** 265, 66, 214
 {: .notice--info}
 
-**[Download](http://www.mediafire.com/file/ajxt79e9lp9iw5t/spooncraft_s1.zip/file)**
+**[Download](https://www.mediafire.com/file/ajxt79e9lp9iw5t/spooncraft_s1.zip/file)**
 {: .notice--success}
 
 ### Season 2
