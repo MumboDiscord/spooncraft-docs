@@ -1,12 +1,12 @@
 ---
-title: "Downloads"
+title: "World Downloads"
 description: "You can download the worlds from all previous seasons here."
 permalink: /downloads/
 layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2022-02-06
+last_modified_at: 2023-06-25
 toc: true
 ---
 
@@ -103,4 +103,14 @@ To use these files, you will need a program that can extract zip files in parts,
 {: .notice--info}
 
 **[Download](https://drive.google.com/file/d/14FkT6x1S8G79wBDKQWOxr6iyIJb9nLcW/view?usp=sharing)**
+{: .notice--success}
+
+### Season 3
+
+**Size:** 11.2GB \
+**Version:** 1.19.1 \
+**Spawn:** 0, 91, 0
+{: .notice--info}
+
+**[Download](https://drive.google.com/file/d/155oTQLpwzgcI9GEefc3IYmCXdsW8oXCb/view?usp=sharing)**
 {: .notice--success}
