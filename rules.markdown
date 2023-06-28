@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2021-08-03
+last_modified_at: 2023-06-28
 toc: true
 ---
 
@@ -14,42 +14,49 @@ toc: true
 
 Please read the rules listed here and make sure you follow them while playing.
 
-### 1. No Stealing
+### 1. Follow all Discord server rules
+
+This includes keeping all content in the server chat appropriate, not spamming, and all other server rules. Please make sure you have read and are familiar with them.
+
+<details>
+<summary>Discord Server Rules</summary>
+<h3>1. Be wholesome</h3>
+Treat others with kindness and respect. There is to be absolutely no harassment in any way shape or form. Don't be disruptive, this includes but is not limited to spam, blasting people’s ears in voice chat, etc. Make sure to follow Discord's Community Guidelines.
+<h3>2. Keep things appropriate</h3>
+Keep everything family friendly and non-controversial, including abbreviations. Keep topics relevant to the channel. No topics meant to incite a negative response/argument. Do not post memes unless they are Mumbo/MC/HC related.
+<h3>3. Speak only in English</h3>
+Our mod team is mostly composed of only English speakers and since we can only moderate what we understand English is the only language to be spoken in the text channels. Speaking in other languages is allowed in the voice channels, but if you are requested by other users to stop, please use another voice channel.
+<h3>4. No inappropriate profiles</h3>
+This includes: zalgo, blank names, unusual unicode, attention seeking names, overly lengthy usernames, slurs, or any other offensive material. please keep your username in readable, understandable, and normal text.
+<h3>5. No advertising or sharing files unless stated</h3>
+We have done this in order to ensure the safety of our members. Please be sure to thoroughly read a channel’s description before posting any links or files.
+<h3>6. Staff have final verdict on rules</h3>
+If a staff member asks you to stop doing something, you should stop. All of the staff reserve the right to ban/kick/mute anyone for any reason. If someone is causing trouble, we ask you to ping staff instead of trying to take care of it on your own; No Minimodding!
+<h3>7. No alt accounts</h3>
+Joining the server with an alt account will be viewed as trying to evade punishment you may receive on your main account. Attempting to do so will result in your alt account getting kicked from the server.
+</details>
+{: .notice}
+
+### 2. No Stealing
 
 Do not take from any chest on the server without explicit permission from the owner of the items. If you pick up a players items from the ground return them immediately to the owner unless explicitly told otherwise.
 
-### 2. No Griefing
+### 3. No Griefing
 
 Do not maliciously destroy other people's builds, whether it is using fire, TNT or just taking it down by hand, this simply will not be tolerated and will in most cases be met with an instant ban.
 
-### 3. No Swearing
+### 4. No Hacking or duplicating
 
-This is a family friendly server, with many younger players, so please be aware of what you say. Any racism/homophobia/seism/etc will in most cases be met with an instant ban. This includes replacing letters with symbols, or using acronyms.
+The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray texture packs), aimbot, autoclickers, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted, including TNT duplication.
 
-### 4. No Spamming
+### 5. Do not maliciously kill other players
 
-Spamming of the server chat is not permitted. Examples of this include posting the same or similar messages many times and using upper-case letters excessively.
+You may only kill players if you BOTH agree to pvp. Traps and ambushes within your base are not allowed unless the player is properly warned beforehand.
 
-### 5. No Hacking or duplicating
+### 6. No offensive skins
 
-The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray tecture packs), aimbot, autoclickers, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted. This also means tnt duplication is not allowed.
+If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likely result in a temp/perm ban.
 
-### 6. Do not maliciously kill other players
+### 7. Keep redstone clocks and farms to a minimum
 
-You may only kill players if you BOTH agree to pvp. Traps and ambuses within your base are not allowed unless the player is properly warned beforehand.
-
-### 7. Do not disrespect other players or staff
-
-Everybody has the right to be treated equally. You should treat each other as you would expect to be treated. The staff members are here to ensure that the rules are being adheared to so that everybody has an equal opportunity. Please do not disrepect the job that they have to do.
-
-### 8. No offensive skins
-
-If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likly result in a temp/perm ban.
-
-### 9. Keep information private
-
-Do not reveal real life information such as your or somebody elses name and address.
-
-### 10. Keep redstone clocks and farms to a minimum
-
-Everybody wants a lag free server, so please make sure that any redstone clocks will turn off when you are not nearby (pressure plates are useful) and keep farm animals down to below 40 per farm
+Everybody wants a lag free server, so please make sure that any redstone clocks will turn off when you are not nearby (pressure plates are useful) and keep farm animals down to below 40 per farm.

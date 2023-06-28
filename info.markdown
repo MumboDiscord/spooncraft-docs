@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2022-08-03
+last_modified_at: 2023-06-28
 toc: true
 ---
 
@@ -33,7 +33,7 @@ Here's a list of most things you need to know, like changes from plugins and dat
 - There are a few crafting changes, which are all listed [here]({{ site.url }}{{ site.baseurl }}/craftingrecipes/).
 - **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the reaction roles in **#server-info**.
 - **Powered rails** will make minecarts go much faster when placed above **packed ice**, and even faster when placed above **blue ice**. **Obsidian** will slow them down.
-- **Proximity voice chat** is available (java only), using the [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) mod. Also, talking in voice chat will activate sculk sensors.
+- **Proximity voice chat** is available (java only), using the [Simple Voice Chat]({{ site.url }}{{ site.baseurl }}/proximitychat/) mod. Also, talking in voice chat will activate sculk sensors.
 - There are multiple **custom music discs**, see if you can collect them all!
 - **Mini blocks** can be obtained from Wandering Traders.
 - The **Thunder Shrine** allows you to offer a nether star to create a thunder storm.
