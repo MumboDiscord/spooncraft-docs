@@ -21,6 +21,8 @@ sidebar:
         url: /rules/
       - title: "FAQ"
         url: /faq/
+      - title: "Crafting changes"
+        url: /craftingrecipes/
       - title: "Mob Heads"
         url: /mobheads/
       - title: "Allowed mods"

@@ -28,13 +28,15 @@ Here's a list of most things you need to know, like changes from plugins and dat
 - The **armor statues book** is available to edit armor stands.
 - You can **create shops** using the shopkeepers plugin, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
 - Discord chat is linked to the ingame chat, through the #in-game-chat channel, so you can talk ingame and have it appear in discord, and the other way around.
-- The night will pass more quickly when one person is sleeping, and will speed up more for each person who sleeps at the same time.
+- Only one player needs to sleep to skip the night, and a message will appear in chat allowing sleeping to be cancelled if anyone needs it to be night.
 - You can create nether portals of **any shape**, instead of just rectangular ones.
-- There are a few crafting changes, including **double stairs, cheaper tnt and universal dyeing**. 
-- You can also get **elytra** by killing the dragon again.
+- There are a few crafting changes, which are all listed [here]({{ site.url }}{{ site.baseurl }}/craftingrecipes/).
 - **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the reaction roles in **#server-info**.
-- **Powered rails** are much faster when placed above **packed ice**, and even faster when placed above **blue ice**.
-- **Proximity voice chat** is available, using the [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) mod. Also, talking in voice chat will activate sculk sensors.
+- **Powered rails** will make minecarts go much faster when placed above **packed ice**, and even faster when placed above **blue ice**. **Obsidian** will slow them down.
+- **Proximity voice chat** is available (java only), using the [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) mod. Also, talking in voice chat will activate sculk sensors.
+- There are multiple **custom music discs**, see if you can collect them all!
+- **Mini blocks** can be obtained from Wandering Traders.
+- The **Thunder Shrine** allows you to offer a nether star to create a thunder storm.
 
 ## Gold Farm Guidelines
 - Raysworks design is not allowed
