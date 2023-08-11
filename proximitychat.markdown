@@ -14,9 +14,9 @@ toc: true
 
 Here’s the tutorial to help get you set up with the proximity chat mod for the Spooncraft server. This is **completely optional** and you can still join the server with a vanilla client, but the option is there for people that want it :D
 
-I’m only going to be talking about the default minecraft launcher here as that’s what most people will be familiar with, but if you want to use another launcher like MultiMC or GDLauncher feel free to adapt these steps for your needs. 
+I’m only going to be talking about the default Minecraft launcher here as that’s what most people will be familiar with, but if you want to use another launcher like MultiMC or GDLauncher, feel free to adapt these steps for your needs. 
 
-If you’re having any problems with this, you can let us know in **#in-game-help** on discord and we’ll try to help you out :P
+If you’re having any problems with this, you can let us know in **#spooncraft-help** on discord and we’ll try to help you out :P
 {: .notice}
 
 Proximity chat is not compatible with **Bedrock Edition**.
@@ -25,7 +25,7 @@ Proximity chat is not compatible with **Bedrock Edition**.
 ## Instructions
 
 1. Go to [the fabric website](https://fabricmc.net/use/), and click **Download installer (Universal/.JAR).**
-2. Run the fabric installer by double clicking the jar file you just downloaded (close the minecraft launcher while doing this). If it doesn’t open and instead asks you what to open it with, you need to [install java](https://www.java.com/).
+2. Run the fabric installer by double clicking the jar file you just downloaded (close the Minecraft launcher while doing this). If it doesn’t open and instead asks you what to open it with, you need to [install java](https://www.java.com/).
 3. Make sure Minecraft Version is set to **1.20.1**, and leave everything else as default, then click install.
 4. Open the Minecraft Launcher, select the **fabric-loader-1.20.1** profile and then launch the game. Once the game loads, make sure it says **Minecraft 1.20.1/Fabric** on the bottom left in the main menu, then close the game again.
 5. Download the Simple Voice Chat mod from [here](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.12).

@@ -39,7 +39,7 @@ Joining the server with an alt account will be viewed as trying to evade punishm
 
 ### 2. No Stealing
 
-Do not take from any chest on the server without explicit permission from the owner of the items. If you pick up a players items from the ground return them immediately to the owner unless explicitly told otherwise.
+Do not take from any chest on the server without explicit permission from the owner of the items. If you pick up a player's items from the ground return them immediately to the owner unless explicitly told otherwise.
 
 ### 3. No Griefing
 

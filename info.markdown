@@ -14,7 +14,7 @@ toc: true
 
 Spooncraft is a **Minecraft: Java Edition** server, with additional support for **Minecraft: Bedrock Edition**, meaning players on all current versions of the game can play.
 
-On Java Edtion, you can connect to Spooncraft using the IPs listed below.
+On Java Edition, you can connect to Spooncraft using the IPs listed below.
 
 **Survival:** `mc.thatmumbojumbo.com` \
 **Creative Plots:** `creative.thatmumbojumbo.com`
@@ -25,7 +25,7 @@ Bedrock specific info, and instructions for connecting on Bedrock Edition can be
 ## General server info
 
 Here's a list of most things you need to know, like changes from plugins and datapacks:
-- The **armor statues book** is available to edit armor stands.
+- The **armour statues book** is available to edit armour stands.
 - You can **create shops** using the shopkeepers plugin, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
 - Discord chat is linked to the ingame chat, through the #in-game-chat channel, so you can talk ingame and have it appear in discord, and the other way around.
 - Only one player needs to sleep to skip the night, and a message will appear in chat allowing sleeping to be cancelled if anyone needs it to be night.
@@ -40,6 +40,5 @@ Here's a list of most things you need to know, like changes from plugins and dat
 
 ## Gold Farm Guidelines
 - Raysworks design is not allowed
-- Donut designs are allowed, as long as they have a direct line to the center from any part of the donut
 - Look at newer designs, ideally want to avoid designs that involve too much pathfinding. Instead, look for designs that give piglins multiple paths to where they need to go
-- Jam can review any designs that are being considered
+- Jam can review any designs that are being considered- Look at newer designs, ideally want to avoid designs that involve too much pathfinding. Instead, look for designs that give piglins multiple paths to where they need to go.
