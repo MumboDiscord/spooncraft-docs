@@ -38,7 +38,7 @@ If you are new to the server and want to get involved in a community project, ju
 
 If you are unsure about anything at all, whether it be; where to build, how to make a claim, how something works, etc.... Ask the community!
 
-The community generally have a pretty good idea of how things work, but if you don't understand or want some more clarification (especially if it's a rule you aren't sure on) ask one of the staff members. Not all Discord staff play on the server, but they will certainly be able to point you into the right direction to somebody that can help... All of the staff members are pretty friendly.
+The community generally have a pretty good idea of how things work, but if you don't understand or want some more clarification (especially if it's a rule you aren't sure on) ask one of the staff members. Not all Discord staff play on the server, but they will certainly be able to point you into the right direction to somebody that can help... All the staff members are pretty friendly.
 
 And remember... there is no such thing as a stupid question!
 
@@ -70,11 +70,11 @@ We even allow you to advertise your stream or video, but only in **#spooncraft-v
 
 Please bear in mind though that you may only post videos/streams of you playing on the Spooncraft server only.
 
-It is not a place for you to generally advertise your channel. You can check the rules for posting videos in **#spooncraft-videos** channel description.
+It is not a place for you to advertise your channel. You can check the rules for posting videos in **#spooncraft-videos** channel description.
 
 ### Can I build a Redstone farm?
 
-Yes you can, but please keep them as lag free as possible! Ideally they should only be activated when they are in use, so maybe use a pressure plate to activate them? If they appear to be slowing down the server, the staff may ask you to remove the farm.
+Yes, you can, but please keep them as lag free as possible! Ideally, they should only be activated when they are in use, so maybe use a pressure plate to activate them? If they appear to be slowing down the server, the staff may ask you to remove the farm.
 
 ## Land Claims
 
@@ -88,11 +88,11 @@ This will give you a golden shovel and a stick. To use the golden shovel, right 
 
 After doing this you should be able to see a visual representation of your claim.
 
-If you are creating your first claim, you can also place down a chest and a 4x4 area around that chest will automatically be claimed for you.
+If you are creating your first claim, you can also place down a chest and a four-by-four area around that chest will automatically be claimed for you.
 
 ### I don't have enough claim blocks!
 
-You will gain an additional 150 claim blocks for each hour that you play, up to a limit of 500,000 blocks (around a 700 x 700 area). Please keep in mind that you can have multiple claims in different locations, but you will still only ever have a maximum of 500,000 claim blocks to use globally.
+You will gain an additional 150 claim blocks for each hour that you play, up to a limit of 500,000 blocks (around a 700 x 700 area). Please keep in mind that you can have multiple claims in various locations, but you will still only ever have a maximum of 500,000 claim blocks to use globally.
 
 ### How do I remove a claim?
 
@@ -100,7 +100,7 @@ Stand in your claim and run the command:
 
 `/abandonclaim`
 
-If you want to abandon all of your claims, run the command:
+If you want to abandon all your claims, run the command:
 
 `/abandonallclaims`
 

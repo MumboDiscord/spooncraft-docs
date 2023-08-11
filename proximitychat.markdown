@@ -30,9 +30,9 @@ Proximity chat is not compatible with **Bedrock Edition**.
 4. Open the Minecraft Launcher, select the **fabric-loader-1.20.1** profile and then launch the game. Once the game loads, make sure it says **Minecraft 1.20.1/Fabric** on the bottom left in the main menu, then close the game again.
 5. Download the Simple Voice Chat mod from [here](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.12).
 6. **On windows:** Press windows key + r and type `%appdata%` and press OK. Then open the `.minecraft` folder and then open the `mods` folder. \
-**On mac:** Open spotlight search and type: `~/Library/Application Support/minecraft`, then hit enter and open up the `mods` folder. \
-**On linux:** I can’t give you detailed steps here since it’ll vary from distro to distro, but you’ll need to browse to `~/.minecraft`. You can use google for more detailed steps. Once you’re in the .minecraft folder, open up the `mods` folder.
-7. Once you’re in the mods folder, copy the `voicechat-fabric-1.20.1-x.x.x.jar` you downloaded into it.
+**On mac:** Open spotlight search and type: `~/Library/Application Support/minecraft`, then hit enter and open the `mods` folder. \
+**On Linux:** I can’t give you detailed steps here since it’ll vary from distro to distro, but you’ll need to browse to `~/.minecraft`. You can use google for more detailed steps.
+7. Once you are in the .minecraft folder, open the `mods` folder, then copy the `voicechat-fabric-1.20.1-x.x.x.jar` you downloaded into it.
 
 8. **(Optional)** If you want to, you can also download other fabric mods and place them in the `mods` folder. See [Allowed mods]({{ site.url }}{{ site.baseurl }}/mods/) to find out which other mods you can use.
 

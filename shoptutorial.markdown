@@ -29,7 +29,7 @@ If you are having any problems with this, you can let us know in **#spooncraft-h
 
 1. Place a chest down.
 2. While looking at the chest, type the command: `/shopkeeper Trading-shop` (The Trading-shop part is important otherwise you won’t be able to set prices properly)
-A villager should appear on top/next to the chest depending where you stand when making the shop.
+A villager should appear on top/next to the chest depending on where you stand when making the shop.
 
 ## Part 2: Setting up the shopkeeper
 
@@ -37,9 +37,9 @@ A villager should appear on top/next to the chest depending where you stand when
 ![gui1]({{ site.url }}{{ site.baseurl }}/assets/images/gui1.png){: .align-center}
 2. Shift right-click the villager and place whatever you want to sell each item for (like diamonds) beneath each item.
 ![gui2]({{ site.url }}{{ site.baseurl }}/assets/images/gui2.png){: .align-center}
-3. You can then adjust prices and amounts. Left click to increase the amount and right click to decrease the amount. Hold shift while doing this to increase/decrease by 10 at a time.
+3. You can then adjust prices and amounts. Left click to increase the amount and right click to decrease the amount. Hold shift while doing this to increase/decrease by ten at a time.
 ![gui3]({{ site.url }}{{ site.baseurl }}/assets/images/gui3.gif){: .align-center}
-4. You can adjust some other options in the bottom of the editor such as villager type.
+4. You can adjust options in the bottom of the editor such as villager type.
 ![gui4]({{ site.url }}{{ site.baseurl }}/assets/images/gui4.png){: .align-center}
 5. Customers can then interact with the villager normally to buy items.
 ![gui5]({{ site.url }}{{ site.baseurl }}/assets/images/gui5.png){: .align-center}

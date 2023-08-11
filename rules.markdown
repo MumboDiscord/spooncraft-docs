@@ -55,7 +55,7 @@ You may only kill players if you BOTH agree to PVP. Traps and ambushes within yo
 
 ### 6. No offensive skins
 
-If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likely result in a temp/perm ban.
+If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will result in a temp/perm ban.
 
 ### 7. Keep redstone clocks and farms to a minimum
 
