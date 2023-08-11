@@ -36,7 +36,7 @@ If you are new to the server and want to get involved in a community project, ju
 
 ### I'm unsure about something, what should I do?
 
-If you are unsure about anything at all, whether it be; where to build, how to make a claim, how something works, etc etc.... Ask the community!
+If you are unsure about anything at all, whether it be; where to build, how to make a claim, how something works, etc.... Ask the community!
 
 The community generally have a pretty good idea of how things work, but if you don't understand or want some more clarification (especially if it's a rule you aren't sure on) ask one of the staff members. Not all Discord staff play on the server, but they will certainly be able to point you into the right direction to somebody that can help... All of the staff members are pretty friendly.
 
@@ -60,13 +60,13 @@ If you are looking for more of a community feel, ask around if there are any tow
 
 No!
 
-We will not be resetting the end, people are building in the end.
+We will not be resetting the end; people are building in the end.
 
 ### Can I stream/record on the spooncraft server?
 
 Of course you can!
 
-We even allow you to advertise your stream or video, but only in **#spooncraft-videos**
+We even allow you to advertise your stream or video, but only in **#spooncraft-videos**.
 
 Please bear in mind though that you may only post videos/streams of you playing on the Spooncraft server only.
 
@@ -80,7 +80,7 @@ Yes you can, but please keep them as lag free as possible! Ideally they should o
 
 ### How do I claim land?
 
-To claim land you need a golden shovel. You can obtain one of these per by running the command:
+To claim land, you need a golden shovel. You can obtain one of these per by running the command:
 
 `/kit claimkit`
 

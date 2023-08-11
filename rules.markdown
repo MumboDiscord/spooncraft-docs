@@ -51,7 +51,7 @@ The use of hacked clients is prohibited. This means that it is not permitted to 
 
 ### 5. Do not maliciously kill other players
 
-You may only kill players if you BOTH agree to pvp. Traps and ambushes within your base are not allowed unless the player is properly warned beforehand.
+You may only kill players if you BOTH agree to PVP. Traps and ambushes within your base are not allowed unless the player is properly warned beforehand.
 
 ### 6. No offensive skins
 

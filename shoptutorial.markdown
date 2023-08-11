@@ -12,9 +12,9 @@ toc: true
 
 ![shops]({{ site.url }}{{ site.baseurl }}/assets/images/shops.png){: .align-center}
 
-On Spooncraft, you can create shops using Shopkeepers which protects your shop from stealing, and provides a simple villager interface for players to buy items from. However you do not have to use this system if you don't want to.
+On Spooncraft, you can create shops using Shopkeepers which protects your shop from stealing, and provides a simple villager interface for players to buy items from. However, you do not have to use this system if you don't want to.
 
-If you’re having any problems with this, you can let us know in **#in-game-help** on discord and we’ll try to help you out :P
+If you are having any problems with this, you can let us know in **#spooncraft-help** on discord and we will try to help you out :P
 {: .notice}
 
 ## Part 1: Creating the shopkeeper
