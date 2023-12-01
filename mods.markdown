@@ -47,4 +47,4 @@ However, you must turn off any features that allow you to see mobs or caves on t
 
 ## Disallowed mods
 
-Any mod that provides you with information impossible to get while playing on a vanilla client, or any mod that tweaks gameplay in any way will definitely not be allowed.
+Any mod that provides you with information impossible to get while playing on a vanilla client, or any mod that tweaks gameplay in any way will likely not be allowed. You can ask staff for clarification on specific mods if needed.
