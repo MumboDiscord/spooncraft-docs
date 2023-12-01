@@ -39,7 +39,7 @@ Joining the server with an alt account will be viewed as trying to evade punishm
 
 ### 2. No Stealing
 
-Do not take from any chest on the server without explicit permission from the owner of the items. If you pick up a players items from the ground return them immediately to the owner unless explicitly told otherwise.
+Do not take from any chest on the server without explicit permission from the owner of the items. If you pick up a player's items from the ground return them immediately to the owner unless explicitly told otherwise.
 
 ### 3. No Griefing
 
@@ -51,11 +51,11 @@ The use of hacked clients is prohibited. This means that it is not permitted to 
 
 ### 5. Do not maliciously kill other players
 
-You may only kill players if you BOTH agree to pvp. Traps and ambushes within your base are not allowed unless the player is properly warned beforehand.
+You may only kill players if you BOTH agree to PVP. Traps and ambushes within your base are not allowed unless the player is properly warned beforehand.
 
 ### 6. No offensive skins
 
-If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will likely result in a temp/perm ban.
+If a staff member deems a skin to be inappropriate, you will be placed in jail until you change it. Failing to change it will result in a temp/perm ban.
 
 ### 7. Keep redstone clocks and farms to a minimum
 

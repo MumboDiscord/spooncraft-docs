@@ -14,7 +14,7 @@ toc: false
 
 We have a server resource pack which is used for various things, including the slime bucket, the spooncraft spoon and emojis in chat.
 
-You can either accept the resource pack when logging into the server (the easiest option), or download it locally (avoids the extra loading screen when joining the server).
+You can either accept the resource pack when logging into the server (the easiest option) or download it locally (avoids the extra loading screen when joining the server).
 
 If you want to download it locally, you can download it below, place it in your resource packs folder, then disable the server resource pack from the server list and enable it in your resource pack options.
 
