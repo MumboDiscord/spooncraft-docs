@@ -42,3 +42,5 @@ gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.4"
 
 gem "jekyll-gist", "~> 1.5"
+
+gem "json"
