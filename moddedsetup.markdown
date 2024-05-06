@@ -28,13 +28,13 @@ Then, click the Refresh button in the bottom left and it should appear. Make sur
 
 Click "Accounts" in the top right of the launcher, then "Manage Accounts...". Select "Add Microsoft" in the top left of the window that appears and follow the instructions to add your Minecraft account. Once you see your username in the list of accounts, you can close the settings window.
 
-### 3. Installing the modpack
+### 4. Installing the modpack
 
 Click "Add Instance" in the top left of the launcher, then go to "Import" on the left. Then, paste in `https://mumbodiscord.github.io/spoonpack/Spoonpack.zip` and click OK at the bottom.
 
 ![gui4]({{ site.url }}{{ site.baseurl }}/assets/images/moddedsetup/import.png){: .align-center}
 
-### 4. Launching the game
+### 5. Launching the game
 
 You can now simply click "Launch" on the right to open the game and start playing!
 
