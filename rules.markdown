@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2023-06-28
+last_modified_at: 2024-08-08
 toc: true
 ---
 
@@ -21,19 +21,22 @@ This includes keeping all content in the server chat appropriate, not spamming, 
 <details>
 <summary>Discord Server Rules</summary>
 <h3>1. Be wholesome</h3>
-Treat others with kindness and respect. There is to be absolutely no harassment in any way shape or form. Don't be disruptive, this includes but is not limited to spam, blasting people’s ears in voice chat, etc. Make sure to follow Discord's Community Guidelines.
+Treat others with kindness and respect. There is to be absolutely no harassment in any way shape or form. Don't be disruptive, this includes but is not limited to spam, blasting people’s ears in voice chat, etc. Make sure to follow <a href="https://discord.com/guidelines">Discord's Community Guidelines</a>.
 <h3>2. Keep things appropriate</h3>
-Keep everything family friendly and non-controversial, including abbreviations. Keep topics relevant to the channel. No topics meant to incite a negative response/argument. Do not post memes unless they are Mumbo/MC/HC related.
+Keep everything family friendly and non-controversial, including abbreviations. Keep topics relevant to the channel. No topics meant to incite a negative response/argument. Do not post memes unless they are Mumbo/Minecraft related.
 <h3>3. Speak only in English</h3>
 Our mod team is mostly composed of only English speakers and since we can only moderate what we understand English is the only language to be spoken in the text channels. Speaking in other languages is allowed in the voice channels, but if you are requested by other users to stop, please use another voice channel.
 <h3>4. No inappropriate profiles</h3>
-This includes: zalgo, blank names, unusual unicode, attention seeking names, overly lengthy usernames, slurs, or any other offensive material. please keep your username in readable, understandable, and normal text.
-<h3>5. No advertising or sharing files unless stated</h3>
-We have done this in order to ensure the safety of our members. Please be sure to thoroughly read a channel’s description before posting any links or files.
-<h3>6. Staff have final verdict on rules</h3>
-If a staff member asks you to stop doing something, you should stop. All of the staff reserve the right to ban/kick/mute anyone for any reason. If someone is causing trouble, we ask you to ping staff instead of trying to take care of it on your own; No Minimodding!
-<h3>7. No alt accounts</h3>
+Usernames, nicknames and profile pictures are subject to the same rules as chat. Additionally, there is to be no impersonation of others.
+<h3>5. No self promotion</h3>
+Don't link to other servers here or post links to your own personal channels.
+<h3>6. No alt accounts</h3>
 Joining the server with an alt account will be viewed as trying to evade punishment you may receive on your main account. Attempting to do so will result in your alt account getting kicked from the server.
+<h3>7. Staff have final verdict on rules</h3>
+If a staff member asks you to stop doing something, you should stop. All of the staff reserve the right to ban/kick/mute anyone for any reason. If someone is causing trouble, we ask you to ping staff instead of trying to take care of it on your own.
+<h3>8. Have a 🥄 moment every day</h3>
+It's important, seriously.
+
 </details>
 {: .notice}
 

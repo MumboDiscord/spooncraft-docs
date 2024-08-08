@@ -45,7 +45,3 @@ sidebar:
         url: /bedrockinfo/
       - title: "Playing on consoles"
         url: /consoles/
-  - title: "Modded Miniseason"
-    children:
-      - title: "Installing the modpack"
-        url: /moddedsetup/

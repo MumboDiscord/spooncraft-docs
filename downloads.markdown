@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2023-06-25
+last_modified_at: 2024-08-08
 toc: true
 ---
 
@@ -85,7 +85,7 @@ You can download the worlds from all previous seasons here.
 To use these files, you will need a program that can extract zip files in parts, such as [7-Zip](https://www.7-zip.org/) on Windows, or [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12&uo=4) on macOS.
 {: .notice}
 
-### Skyblock
+### Skyblock Miniseason
 
 **Size:** 270MB \
 **Version:** 1.16.5 \
@@ -95,7 +95,7 @@ To use these files, you will need a program that can extract zip files in parts,
 **[Download](https://drive.google.com/file/d/1Dy-Fh_C22fp4l5AhZB4Qvf7l7SMZg3Ce/view?usp=sharing)**
 {: .notice--success}
 
-### MC Earth
+### MC Earth Miniseason
 
 **Size:** 5.8GB \
 **Version:** 1.17.1 \
@@ -113,4 +113,14 @@ To use these files, you will need a program that can extract zip files in parts,
 {: .notice--info}
 
 **[Download](https://drive.google.com/file/d/155oTQLpwzgcI9GEefc3IYmCXdsW8oXCb/view?usp=sharing)**
+{: .notice--success}
+
+### Modded Miniseason
+
+**Size:** 1.4GB \
+**Version:** 1.20.1 [(Spoonpack)]({{ site.url }}{{ site.baseurl }}/moddedsetup/) \
+**Spawn:** 0, 68, 0
+{: .notice--info}
+
+**[Download](https://drive.google.com/file/d/1YKQ7M9-KoEzpWJiYN7PB3EXot3bS575P/view?usp=sharing)**
 {: .notice--success}
