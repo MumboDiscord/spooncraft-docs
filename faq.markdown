@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2022-08-03
+last_modified_at: 2024-10-01
 toc: true
 ---
 
@@ -80,15 +80,9 @@ Yes, you can, but please keep them as lag free as possible! Ideally, they should
 
 ### How do I claim land?
 
-To claim land, you need a golden shovel. You can obtain one of these per by running the command:
-
-`/kit claimkit`
-
-This will give you a golden shovel and a stick. To use the golden shovel, right click on a block to set your first point, and then right click again on another block to set your second point.
+To claim land, you need a golden hoe. To create a claim, right click on a block to set your first point, and then right click again on another block to set your second point.
 
 After doing this you should be able to see a visual representation of your claim.
-
-If you are creating your first claim, you can also place down a chest and a four-by-four area around that chest will automatically be claimed for you.
 
 ### I don't have enough claim blocks!
 
@@ -98,11 +92,11 @@ You will gain an additional 150 claim blocks for each hour that you play, up to 
 
 Stand in your claim and run the command:
 
-`/abandonclaim`
+`/flan delete`
 
 If you want to abandon all your claims, run the command:
 
-`/abandonallclaims`
+`/flan deleteAll`
 
 Please note this cannot be undone unless you reclaim your area.
 
@@ -118,17 +112,13 @@ If you have accrued the maximum number of claim blocks (500,000) then you're saf
 
 ### How do I allow people to build on my claim?
 
-You can either allow certain individuals to build/access chests/use redstone on your claimed land or open it to the public. To do this, use these commands:
+You can allow other players to build/access chests/use redstone on your claimed land. To do this, use the command `/flan menu` and click on Edit Global Permissions.
 
-1. Allows access for the public to build - `/trust public`
-3. Allows access for the public to use redstone - `/accesstrust public`
-2. Allows access for the public to use redstone and chests - `/containertrust public`
-
-If you want to restrict it to just certain players, just replace public with their IGN.
+If you want to restrict it to just certain players, go to Edit Permission Groups, then create a group or use one of the existing ones. To see the players in the group and add/remove them, left click the group and to edit permissions for the group, right click the group.
 
 ### Why are pistons exploding when I try to use them?
 
-If a piston is activated on the edge of a claim, it will explode - this is to prevent people from using pistons to grief in a claim. To solve the issue, either expand your claim over it or remove the claim.
+If a piston is activated on the edge of a claim, it will explode - this is to prevent people from using pistons to grief in a claim. To solve the issue, either expand your claim over it or remove the claim. You can also enable the Piston Border permission in the claim to prevent this from happening.
 
 ## Map
 
@@ -140,6 +130,6 @@ You can view the map [here](http://173.233.142.94:8080/).
 
 ### How do I make a shop on the server?
 
-We're using the Shopkeepers plugin for shops on the server, although you do have the option to use the trust system if you'd like to.
+We're using the Universal Shops mod for shops on the server, although you do have the option to use the trust system if you'd like to.
 
-If you want to know how to use the Shopkeepers plugin to make shops, go [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/)!
+If you want to know how to use the Universal Shops mod to make shops, go [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/)!

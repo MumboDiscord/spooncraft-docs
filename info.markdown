@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2023-06-28
+last_modified_at: 2024-10-01
 toc: true
 ---
 
@@ -25,18 +25,16 @@ Bedrock specific info, and instructions for connecting on Bedrock Edition can be
 ## General server info
 
 Here's a list of most things you need to know, like changes from plugins and datapacks:
-- The **armour statues book** is available to edit armour stands.
-- You can **create shops** using the shopkeepers plugin, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
+- To edit armor stands you can either use **Armor Stand Editor** (click on one with flint in your hand) or the **Armor Poser** mod.
+- You can **create shops** using Universal Shops, you can view a tutorial [here]({{ site.url }}{{ site.baseurl }}/shoptutorial/).
 - Discord chat is linked to the in-game chat, through the #in-game-chat channel, so you can talk in-game and have it appear in discord, and the other way around.
-- Only one player needs to sleep to skip the night, and a message will appear in chat allowing sleeping to be cancelled if anyone needs it to be night.
-- You can create nether portals of **any shape**, instead of just rectangular ones.
+- Player sleep percentage is set to 10%.
 - There are a few crafting changes, which are all listed [here]({{ site.url }}{{ site.baseurl }}/craftingrecipes/).
-- **PvP** is disabled by default, but if you want to opt in to PvP then you can do so via the reaction roles in **#server-info**.
+- **PvP** is disabled by default, but if you want to opt in to PvP then you can do so using the **/pvp** command.
 - **Powered rails** will make minecarts go much faster when placed above **packed ice**, and even faster when placed above **blue ice**. **Obsidian** will slow them down.
 - **Proximity voice chat** is available (java only), using the [Simple Voice Chat]({{ site.url }}{{ site.baseurl }}/proximitychat/) mod. Also, talking in voice chat will activate sculk sensors.
 - There are multiple **custom music discs**, see if you can collect them all!
-- **Mini blocks** can be obtained from Wandering Traders.
-- The **Thunder Shrine** allows you to offer a nether star to create a thunderstorm.
+- **Mini blocks** can be obtained using the stonecutter.
 
 ## Gold Farm Guidelines
 - Raysworks design is not allowed.
