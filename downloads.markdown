@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2024-08-08
+last_modified_at: 2024-10-05
 toc: true
 ---
 
@@ -123,4 +123,14 @@ To use these files, you will need a program that can extract zip files in parts,
 {: .notice--info}
 
 **[Download](https://drive.google.com/file/d/1YKQ7M9-KoEzpWJiYN7PB3EXot3bS575P/view?usp=sharing)**
+{: .notice--success}
+
+### Season 4
+
+**Size:** 4.4GB \
+**Version:** 1.20.4 \
+**Spawn:** -23, 102, 16
+{: .notice--info}
+
+**[Download](https://drive.google.com/file/d/19MhQTVimK4IZpcw7dGt0zxg_iPk_8Tfq/view?usp=sharing)**
 {: .notice--success}
