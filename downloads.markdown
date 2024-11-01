@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2024-10-05
+last_modified_at: 2024-11-01
 toc: true
 ---
 
@@ -133,4 +133,14 @@ To use these files, you will need a program that can extract zip files in parts,
 {: .notice--info}
 
 **[Download](https://drive.google.com/file/d/19MhQTVimK4IZpcw7dGt0zxg_iPk_8Tfq/view?usp=sharing)**
+{: .notice--success}
+
+### Skyblock Miniseason S2
+
+**Size:** 58.4MB \
+**Version:** 1.21.1 \
+**Spawn:** 0, 71, 0
+{: .notice--info}
+
+**[Download](https://drive.google.com/file/d/1gAXxXdZ_8W1HL0eaj00mvp-mhACq1geP/view?usp=sharing)**
 {: .notice--success}
